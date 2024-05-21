@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ejercicio_ocho</string>
+    <string name="lb_title">Contactos</string>
+    <string name="Ventana_add">Agregar contacto</string>
+    <string name="txtInput_name">Agregar un nombre</string>
+    <string name="txtinput_telefono">Agregar Telefono</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="calcel">Cancelar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnGuardar">Guardar</string>
+
+    <string name="edNombre">Nombre\n</string>
+
+    <string name="edTelefono">Telefono</string>
+    <string name="txtTItulo">"Usuario "</string>
+    <string name="txxtTitulo">Usuario Modificar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="txtId">Id\n</string>
+    <string name="txtid" />
+    <string name="txtIdd">Id:</string>
+</resources>
